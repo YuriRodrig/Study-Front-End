@@ -1,8 +1,8 @@
 # Study-Front-End
-**Receitas Deliciosas**
+**Receitas Deliciosas** <br /> 
 Este é um projeto simples de HTML e CSS para exibir receitas deliciosas. Ele foi desenvolvido como parte do meu aprendizado inicial em desenvolvimento web.
 
-**Conteúdo do Projeto**
+**Conteúdo do Projeto** <br /> 
 O projeto consiste nos seguintes arquivos:
 
 * index.html: Página principal que lista as receitas disponíveis e fornece links para cada uma delas.
