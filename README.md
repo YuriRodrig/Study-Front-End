@@ -1,2 +1,2 @@
 # Study-Front-End
-Repository created from study
+Meu projeto HTML e CSS
